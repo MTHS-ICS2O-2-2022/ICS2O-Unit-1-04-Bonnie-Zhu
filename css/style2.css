@@ -1,0 +1,37 @@
+/* Created by: Bonnie ZHu
+* Created on: Feb 15 2023
+* This file contains the CSS for index2.html
+*/
+
+body {
+  background-color: rgb(164, 232, 139)
+}
+
+h1 {
+  background-color: rgb(134, 221, 224);
+  color: rgb(222, 198, 38);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: rgb(214, 198, 245);
+}
+
+ul{
+  color:rgb(201, 129, 129);
+}
+
+ul li::before {
+  content:"✅";
+}
+table {
+  border: soild thin;
+}
+
+th {
+  height: 2rem;
+  background:rgb(146, 237, 203);
+  border :1px soild black;
+  text-align: center;
+}
