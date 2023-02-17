@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: rgb(164, 232, 139)
+  background-color: rgb(164, 232, 139);
 }
 
 h1 {
@@ -26,12 +26,12 @@ ul li::before {
   content:"✅";
 }
 table {
-  border: soild thin;
+  border: solid thin;
 }
 
 th {
   height: 2rem;
   background:rgb(146, 237, 203);
-  border :1px soild black;
+  border :1px solid black;
   text-align: center;
 }
