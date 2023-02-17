@@ -17,5 +17,3 @@ This site can be found at: [https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-1-04-
   - ⚙ Settings
   - 🗔 Pages
     - then from the "Deploy from a branch ▼" button, select "GitHub Actions"
-
-    
