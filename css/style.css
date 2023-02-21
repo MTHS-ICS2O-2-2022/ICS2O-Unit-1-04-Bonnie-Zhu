@@ -4,11 +4,11 @@
 */
 
 body {
-  background-color:rgb(210 179 238);
+  background-color: rgb(210 179 238);
 }
 
 h1 {
-  background-color:rgb(224 158 134);
+  background-color: rgb(224 158 134);
   color: rgb(196 196 246);
   padding: 40px;
   text-align: center;
@@ -16,4 +16,4 @@ h1 {
 
 p {
   background-color: rgb(153 86 100);
-} 
+}
