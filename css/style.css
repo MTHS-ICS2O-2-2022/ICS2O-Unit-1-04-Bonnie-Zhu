@@ -3,18 +3,17 @@
 * This file contains the CSS for index.html
 */
 
-body{
-  background-color:rgb(210, 179, 238);
+body {
+  background-color:rgb(210 179 238);
 }
 
-
 h1 {
-  background-color:rgb(224, 158, 134);
-  color:rgb(196, 196, 246);
-  padding:40px;
+  background-color:rgb(224 158 134);
+  color: rgb(196 196 246);
+  padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color:rgb(153, 86, 100);
-}
+  background-color: rgb(153 86 100);
+} 
